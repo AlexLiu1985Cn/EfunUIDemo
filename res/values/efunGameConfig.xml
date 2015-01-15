@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 表示应用上架的平台 -->
+    <string name="efunAppPlatform">e00001</string>
+    <!-- facebook appid -->
+    <string name="efunFBApplicationId">197805950322857</string>
+    <!-- 谷歌分析追踪 -->
+    <string name="efunGoogleAnalyticsTrackingId">UA-55769351-1</string>
+    <!-- 游戏编码 -->
+    <string name="efunGameCode">dgr</string>
+    <!-- 游戏编简称 -->
+    <string name="efunGameShortName">dgr</string>
+    <!-- 秘钥 -->
+    <string name="efunAppKey">1149FFB96FF4EFBC52912D4799CE1FBC</string>
+    <!-- 登入首选地址 -->
+    <string name="efunLoginPreferredUrl">http://login.efun.com/</string>
+    <!-- 登入备用地址 -->
+    <string name="efunLoginSpareUrl">http://loginsea.efunsea.com/</string>
+    <!-- 广告首选地址 -->
+    <string name="efunAdsPreferredUrl">http://ad.efun.com/</string>
+    <!-- 广告备用地址 -->
+    <string name="efunAdsSpareUrl">http://adsea.efunsea.com/</string>
+    <!-- 储值获取首选地址 -->
+    <string name="efunPayPreferredUrl">http://pay.efun.com/</string>
+    <!-- 储值备用地址 -->
+    <string name="efunPaySpareUrl">http://paysea.efunsea.com/</string>
+    <!-- FB工程首选域名 -->
+    <string name="efunFbPreferredUrl">http://fb.efun.com/</string>
+    <!-- FB工程备用域名 -->
+    <string name="efunFbSpareUrl">http://fbsea.efunsea.com/</string>
+    <!-- 推送域名 -->
+    <string name="efunGamePreferredDomainUrl">http://game.efun.com/</string>
+    <string name="efunGameSpareDomainUrl">http://gamesea.efunsea.com/</string>
+
+    <!-- google分析接入广告的类类名 -->
+    <string name="efunGAListenerName">com.efun.os.ads.GAAdvert</string>
+    <!-- S2S接入广告的类类名 -->
+    <string name="efunS2SListenerName">com.efun.os.ads.S2SAdvert</string>
+    <!-- 登录监听的类类名 -->
+    <string name="efunLoginListenerName">com.efun.os.listeners.SdkListener</string>
+    <!-- 事件监听 -->
+    <string name="efunEventListenerName">com.efun.os.listeners.EventListener</string>
+    <!-- 屏幕方向  ""空为横屏，“v”为竖屏 -->
+    <string name="efunScreenOrientation"></string>
+    <!-- 语言种类 -->
+    <string name="efunLanguage">zh_CH</string>
+    <!-- 地区前缀 -->
+    <string name="efunPrefixName"></string>
+
+    <!-- 活动邀请标志 -->
+    <string name="efunActivityCode">dgrfbinvitefriend</string>
+
+    <!-- 渠道相关 -->
+    <string name="efunChannelEnable"></string>
+    <string name="efunChannelPayForm"></string>
+    <string name="efunChannelAdvertiser"></string>
+    <string name="efunChannelPartner"></string>
+    
+    <!-- 谷歌储值错误提示 -->
+    <string name="efunGoogleServerError">访问服务器超时，请稍后再试</string>
+    <string name="efunGoogleBuyFailError">储值失败</string>
+    <string name="efunGoogleStoreError">您所在的地区不支持google钱包</string>
+</resources>
